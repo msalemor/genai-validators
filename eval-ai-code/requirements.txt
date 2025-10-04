@@ -1,0 +1,5 @@
+click
+openai
+pathlib
+python-dotenv
+aiofiles
